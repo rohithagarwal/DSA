@@ -1,0 +1,57 @@
+1️⃣ Print numbers from 1 to n.
+2️⃣ Print numbers from n to 1.
+3️⃣ Print all even numbers from 1 to n.
+4️⃣ Print all odd numbers from 1 to n.
+5️⃣ Find sum of first n natural numbers.
+6️⃣ Find sum of all even numbers from 1 to n.
+7️⃣ Find factorial of n.
+8️⃣ Count number of digits in a number.
+9️⃣ Find sum of digits of a number.
+🔟 Reverse a number.
+1️⃣1️⃣ Check if a number is palindrome.
+1️⃣2️⃣ Check if a number is prime.
+1️⃣3️⃣ Find GCD (HCF) of two numbers.
+1️⃣4️⃣ Find LCM of two numbers.
+1️⃣5️⃣ Print Fibonacci series up to n terms.
+
+✅ 🟡 Intermediate single loop + slight logic (16–25)
+1️⃣6️⃣ Find largest digit in a number.
+1️⃣7️⃣ Find smallest digit in a number.
+1️⃣8️⃣ Count number of even and odd digits in a number.
+1️⃣9️⃣ Check if a number is Armstrong number.
+2️⃣0️⃣ Check if a number is a perfect number (sum of its divisors equals number).
+2️⃣1️⃣ Find the nth Fibonacci number.
+2️⃣2️⃣ Sum of all divisors of a number.
+2️⃣3️⃣ Print all divisors of a number.
+2️⃣4️⃣ Print sum of squares of first n natural numbers.
+2️⃣5️⃣ Check if a number is strong number (sum of factorial of digits equals number).
+
+✅ 🟠 Pattern printing (nested loops start) (26–40)
+2️⃣6️⃣ Print square of stars (n x n).
+2️⃣7️⃣ Print hollow square of stars.
+2️⃣8️⃣ Print right-angled triangle of stars.
+2️⃣9️⃣ Print inverted right-angled triangle.
+3️⃣0️⃣ Print pyramid of stars.
+3️⃣1️⃣ Print inverted pyramid.
+3️⃣2️⃣ Print half diamond pattern.
+3️⃣3️⃣ Print full diamond pattern.
+3️⃣4️⃣ Print number triangle (1, 12, 123, …).
+3️⃣5️⃣ Print inverted number triangle.
+3️⃣6️⃣ Print Floyd’s triangle.
+3️⃣7️⃣ Print Pascal's triangle.
+3️⃣8️⃣ Print butterfly pattern.
+3️⃣9️⃣ Print hollow pyramid.
+4️⃣0️⃣ Print alphabet triangle (A, AB, ABC, ...).
+
+✅ 🔴 Advanced logical nested loops + number manipulation (41–50)
+4️⃣1️⃣ Print prime numbers from 1 to n.
+4️⃣2️⃣ Print first n prime numbers.
+4️⃣3️⃣ Check whether a number is special (sum of digits factorial equals number).
+4️⃣4️⃣ Find second largest number from a set of n numbers.
+4️⃣5️⃣ Find the frequency of each digit in a number.
+4️⃣6️⃣ Check whether a number is Harshad number (divisible by sum of digits).
+4️⃣7️⃣ Print Armstrong numbers between 1 and n.
+4️⃣8️⃣ Find sum of prime digits in a number.
+4️⃣9️⃣ Find product of all non-zero digits in a number.
+5️⃣0️⃣ Find first and last digit sum of a number.
+
